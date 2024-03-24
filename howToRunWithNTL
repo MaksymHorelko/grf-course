@@ -1,0 +1,1 @@
+g++ -g -o2 -std=c++11 -pthread -march=native FILE.cpp -o OUTPUT -lntl -lgmp -lm -I /home/mint/NTL/sw/include -L/home/mint/NTL/sw/lib
